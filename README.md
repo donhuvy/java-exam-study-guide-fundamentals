@@ -14,3 +14,5 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 ## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
+
+https://link.springer.com/video/10.1007/978-1-4842-7976-2#transcript
