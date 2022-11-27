@@ -18,4 +18,5 @@ public class ifelse {
         age = 21;
         message = age >= 18 ? "Welcome" : "Sorry, too young";
     }
+
 }

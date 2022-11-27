@@ -16,4 +16,5 @@ public class switchexample {
                 message = "Where do you want to go?";
         }
     }
+
 }
